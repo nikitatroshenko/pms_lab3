@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab3.1</string>
+    <string name="goto_act2_btn_text">Activity 2</string>
+    <string name="goto_act3_btn_text">Activity 3</string>
+    <string name="goto_act4_btn_text">Activity 4</string>
+    <string name="close_btn_text">Exit</string>
+    <string name="btn_1_txt">Button1</string>
+    <string name="btn_3_txt">Button3</string>
+    <string name="btn_2_txt">Button2</string>
+</resources>

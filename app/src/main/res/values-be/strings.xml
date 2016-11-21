@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаб3.1</string>
+    <string name="goto_act2_btn_text">Акты\u045eнасць 2</string>
+    <string name="goto_act3_btn_text">Акты\u045eнасць 3</string>
+    <string name="goto_act4_btn_text">Акты\u045eнасць 4</string>
+    <string name="close_btn_text">Выйсцi</string>
+    <string name="btn_1_txt">Кнопка1</string>
+    <string name="btn_2_txt">Кнопка2</string>
+    <string name="btn_3_txt">Кнопка3</string>
+</resources>
